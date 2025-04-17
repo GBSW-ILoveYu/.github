@@ -10,17 +10,17 @@
     <thead>
         <tr>
             <th style="text-align:center;" >🍀 박성민</th>
-            <th style="text-align:center;" >🍀 권가령</th>
             <th style="text-align:center;" >🍀 유진승</th>
             <th style="text-align:center;" >🍀 김근모</th>
+            <th style="text-align:center;" >🍀 권가령</th>
         </tr>
     </thead>
     <tbody>
       <tr>
         <td><img width="200" src="https://avatars.githubusercontent.com/u/133091225?v=4"/></td>
-        <td><img width="200" src="https://avatars.githubusercontent.com/u/133763638?v=4"/></td>
         <td><img width="200" src="https://avatars.githubusercontent.com/u/127307160?v=4"/></td>
         <td><img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE_8rTWHnRPEZYgsmH-8r-I5aTjlPXotO6Q&s"/></td>
+        <td><img width="200" src="https://avatars.githubusercontent.com/u/133763638?v=4"/></td>
       </tr>
     </tbody>
 </table>
