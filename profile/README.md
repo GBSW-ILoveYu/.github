@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Linky</h1>
 </div>
-
+<img src="https://github.com/user-attachments/assets/c4fe73cd-c504-43df-840c-283db2cde254"/>
 ## 아이디어 소개
 <h4>인공지능을 이용한 링크 카테고리 분류 & 정리 어플리케이선</h4>
 
